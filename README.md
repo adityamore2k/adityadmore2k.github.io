@@ -1,2 +1,3 @@
 # FCC-landing-page
-FCC landing page project
+FCC Landing page-
+This is a demo landing page I created to learn how to create landing pages.
